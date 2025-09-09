@@ -50,9 +50,12 @@ Use this knowledge responsibly and only in legal, controlled environments.
 
 ---
 
-## 📌 About   
-- Author: **OccupyTheWeb**  
+## 📌 About    
 - Notes by: parth virani
+- youtube : https://www.youtube.com/@netpath
+- youtube : https://www.youtube.com/@Secure77
+- instagram  : https://www.instagram.com/sec.ure7
+- linkedin   : https://www.linkedin.com/in/pmvirani001/
   
 
 ---
