@@ -23,7 +23,7 @@ Use this knowledge responsibly and only in legal, controlled environments.
 
 ### Part III – Exploitation  
 - [Chapter 8: Password Cracking](chapters/ch08-password-cracking.md)  
-- [Chapter 9: Metasploit Exploitation](chapters/ch09-metasploit.md)  
+- [Chapter 9: Metasploit Exploitation](chapters/ch09a-metasploit-basics.md)  
 - [Chapter 10: Sniffing & Protocol Analysis](chapters/ch10-sniffing-basics.md)  
 - [Chapter 11: Post-Exploitation](chapters/ch11-post-exploitation.md)  
 
