@@ -12,7 +12,7 @@ Use this knowledge responsibly and only in legal, controlled environments.
 
 ### Part I – Foundations  
 - [Chapter 1: Getting Started](chapters/ch01-getting-started.md)  
-- [Chapter 2: Essential Skills and Tools](chapters/ch02-essential-skills-tools.md)  
+- [Chapter 2: Essential Skills and Tools](chapters/ch02-hacker-essentials.md)  
 - [Chapter 3: The Hacker Process](chapters/ch03-hacker-process.md)  
 - [Chapter 4: Setting Up Our Lab](chapters/ch04-lab-setup.md)  
 
