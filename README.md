@@ -14,7 +14,7 @@ Use this knowledge responsibly and only in legal, controlled environments.
 - [Chapter 1: Getting Started](chapters/ch01-getting-started.md)  
 - [Chapter 2: Essential Skills and Tools](chapters/ch02-hacker-essentials.md)  
 - [Chapter 3: The Hacker Process](chapters/ch03-hacker-process.md)  
-- [Chapter 4: Setting Up Our Lab](chapters/ch04-lab-setup.md)  
+- [Chapter 4: Setting Up Our Lab](chapters/ch04-virtual-lab.md)  
 
 ### Part II – Reconnaissance & Scanning  
 - [Chapter 5: Passive Reconnaissance](chapters/ch05-passive-recon.md)  
